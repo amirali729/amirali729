@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir Ali
 
-<!--
-**amirali729/amirali729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 First-Year Software Engineering Student | Beginner Web Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing a degree in Software Engineering and actively building my skills in web development. I focus on writing clean, simple code using HTML, CSS, and JavaScript. I'm always eager to learn and explore new technologies as I grow in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools:** VS Code, Git, GitHub, Chrome DevTools
+
+---
+
+### 🎯 Goals for 2025
+- Build and publish beginner-friendly web projects
+- Master JavaScript DOM and form validation
+- Contribute to open-source beginner projects
+
+---
+
+### 🚀 Projects in Progress
+- Personal portfolio website
+- To-do list app with local storage
+- Responsive landing pages with modern CSS
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: amirpechs10@gmail.com
+- 🌐 Portfolio: Coming soon!
+
+---
+
+### 💡 Fun Fact
+I started learning to code because I wanted to build things I can share with the world — and I'm just getting started 🚀
